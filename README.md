@@ -1,0 +1,2 @@
+# GRIZ
+GRIZ discord bot
