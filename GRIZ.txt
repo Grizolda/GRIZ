@@ -1,1 +1,6 @@
+Bot version: 0.0.1
+Discord.py version: 1.5.1
+Python version: 3.7.3
 
+Bot username: GRIZ
+Description: GRIZ is a discord bot created to help people manage thier discord servers.
