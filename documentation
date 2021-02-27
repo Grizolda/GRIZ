@@ -1,0 +1,44 @@
+commands:
+Bot:
+  botinfo  returns the bot's info
+  load     loads an extension
+  ping     returns the bot latency
+  prefix   returns the bot prefix
+  unload   unloads an extension
+Channel:
+  clear    clears an amount of messages
+  invite   invites an user to a channel
+  lock     locks a channel
+  poll     sends a poll message to a channel
+  unlock   unlocks a channel
+Event:
+  event    sets a new event
+Feedback:
+  feedback sends a feedback\report message to GRIZ team
+Giveaway:
+  giveaway randoms a member from a role
+Member:
+  rank     returns the user's rank
+  tag      tags a member\role
+Moderation:
+  ban      bans a member
+  kick     kicks a member
+  mute     mutes a member
+  unban    unbans a baned member
+Music:
+  pause    pauses a running song
+  play     plays a song
+  queue    dysplays the queue
+  resume   resumes a stopped song
+  stop     stops a running song
+Server:
+  allow    allowes member a permission
+TeamMaker:
+  fill     returns a list of invited players to fill user's party
+  game     adds a game to the query
+  lobby    joins a user into the query
+Voice:
+  join     joins the bot to a channel
+  leave    leave the bot from a channel
+​No Category:
+  help     Shows this message
